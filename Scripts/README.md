@@ -7,3 +7,13 @@ The following figure covers how to fine-tune a pretrained Transformer model, pro
 
 In our work, we will test all the versions of flaubert to decide which version we will go forward with.The following table contains all the information about the FlauBERT models.
 
+| Model name | Number of layers | Attention Heads | Embedding Dimension | Total Parameters |
+| :------:       |   :---: | :---: | :---: | :---: |
+| `flaubert-small-cased` | 6    | 8    | 512   | 54 M |
+| `flaubert-base-uncased`  | 12  | 12  | 768  | 137 M |
+| `flaubert-base-cased`   | 12   | 12      | 768   | 138 M |
+| `flaubert-large-cased`  | 24   | 16     | 1024 | 373 M |
+
+The pretrained models are available for download from [here](https://zenodo.org/record/3627732) or via Hugging Face's library.
+
+
