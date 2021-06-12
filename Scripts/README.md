@@ -5,3 +5,5 @@ The following figure covers how to fine-tune a pretrained Transformer model, pro
 
 ![WorkFlow_2](https://user-images.githubusercontent.com/73403859/121178050-601e1f80-c85e-11eb-850c-337e22d5fa08.png)
 
+In our work, we will test all the versions of flaubert to decide which version we will go forward with.The following table contains all the information about the FlauBERT models.
+
