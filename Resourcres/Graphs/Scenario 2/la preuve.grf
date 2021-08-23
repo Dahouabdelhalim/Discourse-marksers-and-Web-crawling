@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 70 200 1 5 
+"" 804 205 0 
+"la preuve" 366 136 1 4 
+"<E>/ <DMC> " 278 136 1 2 
+"<E>/ </DMC> " 489 136 1 8 
+"<ADJ>+<ADJWH>+<ADV>+<ADVWH>+<CC>+<DET>+<DETWH>" 106 165 1 6 
+"$*" 220 151 1 3 
+"<V>+<VIMP>+<VINF>+<VPP>+<VPR>+<VS>+<P>+<P+D>+<CS>+<ADJ>+<ADJWH>" 639 138 1 9 
+"$![" 599 138 1 7 
+"$]" 747 138 1 1 
