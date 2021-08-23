@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 69 210 1 8 
+"" 730 212 0 
+"tiens" 285 138 1 4 
+"<E>/ <DMP> " 215 134 1 2 
+"<E>/ </DMP> " 398 141 1 6 
+"<ADV>+<A>+<PREP>" 565 130 1 7 
+"$![" 509 134 1 5 
+"$]" 648 134 1 1 
+"tu" 112 135 1 9 
+"$*" 175 134 1 3 
